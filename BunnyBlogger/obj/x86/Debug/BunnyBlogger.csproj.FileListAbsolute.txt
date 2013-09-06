@@ -1,0 +1,11 @@
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\bin\x86\Debug\WordpressXMLRPC.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\bin\x86\Debug\WordpressXMLRPC.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\bin\x86\Debug\BlueBlocksLib.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\bin\x86\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\bin\x86\Debug\BlueBlocksLib.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\bin\x86\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\obj\x86\Debug\BunnyBlogger.csprojResolveAssemblyReference.cache
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\obj\x86\Debug\BunnyBlogger.Properties.Resources.resources
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\obj\x86\Debug\BunnyBlogger.csproj.GenerateResource.Cache
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\obj\x86\Debug\WordpressXMLRPC.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\obj\x86\Debug\WordpressXMLRPC.pdb

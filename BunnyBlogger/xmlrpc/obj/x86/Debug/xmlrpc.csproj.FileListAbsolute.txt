@@ -33,3 +33,8 @@ D:\BunnyBlogger\clone4\BunnyBlogger\xmlrpc\bin\x86\Debug\CookComputing.XmlRpcV2.
 D:\BunnyBlogger\clone4\BunnyBlogger\xmlrpc\obj\x86\Debug\ResolveAssemblyReference.cache
 D:\BunnyBlogger\clone4\BunnyBlogger\xmlrpc\obj\x86\Debug\CookComputing.XmlRpcV2.dll
 D:\BunnyBlogger\clone4\BunnyBlogger\xmlrpc\obj\x86\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\xmlrpc\bin\x86\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\xmlrpc\bin\x86\Debug\CookComputing.XmlRpcV2.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\xmlrpc\obj\x86\Debug\xmlrpc.csprojResolveAssemblyReference.cache
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\xmlrpc\obj\x86\Debug\CookComputing.XmlRpcV2.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\BunnyBlogger\xmlrpc\obj\x86\Debug\CookComputing.XmlRpcV2.pdb

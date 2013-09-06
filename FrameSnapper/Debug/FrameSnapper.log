@@ -1,0 +1,15 @@
+﻿Build started 6/09/2013 4:29:10 PM.
+     1>Project "C:\Users\TianYu\Documents\GitHub\bunnyblogger\FrameSnapper\FrameSnapper.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\Users\TianYu\Documents\GitHub\bunnyblogger\FrameSnapper\FrameSnapper.vcxproj /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D FRAMESNAPPER_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\TianYu\Documents\GitHub\bunnyblogger\Debug\FrameSnapper.dll" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\TianYu\Documents\GitHub\bunnyblogger\FrameSnapper\\lib\ "avcodec-52.lib" "avformat-52.lib" "avdevice-52.lib" "avutil-49.lib" "swscale-0.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\TianYu\Documents\GitHub\bunnyblogger\Debug\FrameSnapper.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\TianYu\Documents\GitHub\bunnyblogger\Debug\FrameSnapper.lib" /MACHINE:X86 /SAFESEH /DLL Debug\main.obj
+     1>main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+            Creating library C:\Users\TianYu\Documents\GitHub\bunnyblogger\Debug\FrameSnapper.lib and object C:\Users\TianYu\Documents\GitHub\bunnyblogger\Debug\FrameSnapper.exp
+         FrameSnapper.vcxproj -> C:\Users\TianYu\Documents\GitHub\bunnyblogger\Debug\FrameSnapper.dll
+     1>Done Building Project "C:\Users\TianYu\Documents\GitHub\bunnyblogger\FrameSnapper\FrameSnapper.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.78

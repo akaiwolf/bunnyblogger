@@ -1,0 +1,12 @@
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\bin\x86\Debug\Skybound.Gecko.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\bin\x86\Debug\Skybound.Gecko.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\bin\x86\Debug\Skybound.Gecko.xml
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.csprojResolveAssemblyReference.cache
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.ChromeDialog.resources
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.ConfirmDialog.resources
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.PasswordDialog.resources
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.PromptDialog.resources
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.PropertiesDialog.resources
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.csproj.GenerateResource.Cache
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\Skybound.Gecko\obj\x86\Debug\Skybound.Gecko.pdb

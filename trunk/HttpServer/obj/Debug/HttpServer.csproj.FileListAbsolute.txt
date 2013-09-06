@@ -1,0 +1,7 @@
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\bin\Debug\HttpServer.dll.config
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\bin\Debug\HttpServer.XML
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\bin\Debug\HttpServer.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\bin\Debug\HttpServer.pdb
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\obj\Debug\HttpServer.csprojResolveAssemblyReference.cache
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\obj\Debug\HttpServer.dll
+C:\Users\TianYu\Documents\GitHub\bunnyblogger\trunk\HttpServer\obj\Debug\HttpServer.pdb
